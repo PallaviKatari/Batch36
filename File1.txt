@@ -1,4 +1,4 @@
-First File
+First File  Merge Conflict demo
 First File
 First File
 First File
