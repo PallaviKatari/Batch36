@@ -1,4 +1,5 @@
 First File Hello lets create a merge conflict
+First File  Merge Conflict demo
 First File
 First File
 First File
@@ -10,3 +11,4 @@ First File
 First File
 First File
 First File
+---------------------------
